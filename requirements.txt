@@ -1,0 +1,15 @@
+beautifulsoup4
+bs4
+certifi
+chardet
+colorama
+geckodriver-autoinstaller
+Pillow
+pip
+pipenv
+pytest
+requests
+selenium
+setuptools
+soupsieve
+urllib3
